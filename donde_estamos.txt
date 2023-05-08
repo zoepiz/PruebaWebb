@@ -1,0 +1,44 @@
+ <html lang="es"><head>
+    <meta charset="utf-8">
+    <meta name="description" content="Teatro Principal Alicante">
+    <meta name="keyword" content="teatro, principal, alicante, Espectáculos, funciones, horarios, pases, entradas, ubicación">
+
+    <title>Donde estamos</title>
+    
+
+</head>
+<body>
+
+   <header>
+      <h1>Donde estamos Museo Nacional Reina Sofía</h1>
+
+   </header>
+
+   <nav>
+  <ul>
+         <li><a href="Origen.htm">Origen</a></li>
+        <li><a href="quienessomos.html">Quienes somos</a></li>
+        <li><a href="donde_estamos.html">Donde estamos</a></li>
+        <li><a href="espectaculo.html">Exposiciones</a></li>
+        <li><a href="enlacesexternos.html">Enlaces Externos</a></li>
+     </ul>
+ 
+   </nav>
+
+<nav>
+
+<p><img src="img/fachada.png" alt="Fchada Museo rina Sofia" title="Fachada Museo Reina Sofís"></p>
+<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3038.0421800249374!2d-3.6971318243655165!3d40.40791635617623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd422628db3a07bd%3A0x309814d159babf71!2sMuseo%20Nacional%20Centro%20de%20Arte%20Reina%20Sof%C3%ADa!5e0!3m2!1ses!2ses!4v1683279346590!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+</nav>
+
+<footer>
+   <adress><p>C. de Sta. Isabel, 52, 28012 Madrid</p> 
+<p>Telf: 965 203 100 </p></adress>
+<p><a href="mailto:info@museoreinasofia.es">info@museoreinasofia.es</a></p>
+<p>Venta de entradas:</p>
+<p>En Taquilla: de 12h a 14h y de 17h a 21h.</p>
+<p>Por teléfono: 965 202 380.</p>
+
+
+</footer>
+</body></html>

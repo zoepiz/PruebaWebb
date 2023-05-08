@@ -1,0 +1,45 @@
+ <html lang="es"><head>
+    <meta charset="utf-8">
+    <meta name="description" content="Teatro Principal Alicante">
+    <meta name="keyword" content="teatro, principal, alicante, Espectáculos, funciones, horarios, pases, entradas, ubicación">
+
+    <title>Teatro Principal Alicante</title>
+    
+
+</head>
+<body>
+
+   <header>
+      <h1>Museo Nacional Reina Sofía</h1>
+
+   </header>
+
+   <nav>
+     <ul>
+         <li><a href="Origen.htm">Origen</a></li>
+        <li><a href="quienessomos.html">Quienes somos</a></li>
+        <li><a href="donde_estamos.html">Donde estamos</a></li>
+        <li><a href="espectaculo.html">Exposiciones</a></li>
+        <li><a href="enlacesexternos.html">Enlaces Externos</a></li>
+     </ul>
+ 
+   </nav>
+
+<nav>
+<img src="img/índice.jpeg" width=250 height=250 alt="Plano general Teatro Principal Alicante" title="Alzada Frontal del escenario y planos de todas las plantas">
+</nav>
+
+
+
+
+<footer>
+   <adress><p>C. de Sta. Isabel, 52, 28012 Madrid</p> 
+<p>Telf: 965 203 100 </p></adress>
+<p><a href="mailto:info@museoreinasofia.es">info@museoreinasofia.es</a></p>
+<p>Venta de entradas:</p>
+<p>En Taquilla: de 12h a 14h y de 17h a 21h.</p>
+<p>Por teléfono: 965 202 380.</p>
+
+
+</footer>
+</body></html>
